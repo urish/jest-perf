@@ -1,0 +1,17 @@
+{
+  "name": "jest-perf",
+  "version": "1.0.0",
+  "description": "Jest Performance Example",
+  "main": "index.js",
+  "author": "Uri Shaked",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^20.0.3"
+  },
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
